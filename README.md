@@ -50,24 +50,6 @@
 
 <br/><br/>
 
-### 온실 통합제어기 간 RS485기반 Modbus 인터페이스 제작
-- 유리온실의 센서노드 및 구동기 노드, 온실 통합제어기 간 표준화된 방식의 프로토콜을 사용하여 서로 다른 장치 간 상호 연동이 가능하도록 제작<br/>
-- 반밀폐형 유리온실을 구성하는 각 구성 요소나 장치는 ID를 통해 식별되기 때문에 RS485 Modbus 방식으로 데이터 송수신을 위해서 address 사용<br/>
-
-![image](https://github.com/dontoong/smart_farm/assets/106039761/1f14d6a5-031e-4dc0-b3fb-8189d72ed98c)
-
-그림 [Modbus 인터페이스]
-
-<br/><br/>
-
-- 상호연동을 위해 기존에 사용하던 ID와 RS485 Modbus address간 매핑<br/>
-
-<br/><br/>
-
-표 [상호간 매핑 방법]
-
-![image](https://github.com/dontoong/smart_farm/assets/106039761/108b2c41-0331-4869-8c8e-393b20b48362)
-
 ### 유리온실 통합관제시스템 구축
 - 유리온실 설비 제어기능<br/>
 - 유리온실 통계정보 조회<br/>
