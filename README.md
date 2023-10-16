@@ -175,7 +175,7 @@
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/a00e26f9-ecae-4b5c-bacb-087811ba654a)
 
 
-# 다른 팀원들의 개발
+# 팀원들의 개발
 
 ## 게이트웨이 개발(프로젝트의 서버 구조)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/7e69a84f-95a1-475e-992d-bb982dcdf20d)
