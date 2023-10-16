@@ -1,6 +1,6 @@
 import paho.mqtt.client as mqtt
 import machbase_sql
-mqqt_port=5050
+mqqt_port="기본포트(5050)"
 mqttc = mqtt.Client()
 mqttc.connect(machbase_sql.ip, mqqt_port)
 
