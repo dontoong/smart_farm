@@ -55,10 +55,11 @@
 1.3. 소규모 시뮬레이터 제작 -시스템 구축 과정에서 활용
        (실증 환경과 같은 센서노드 구성) - 연계 기업과 협의를 통해 적용
    
-   ![image](https://github.com/dontoong/smart_farm/assets/106039761/34625770-790c-49df-b1bc-d3cab5e6789b)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/34625770-790c-49df-b1bc-d3cab5e6789b)
 
 그림  [센서 노드 H/W 블록도] 예시
 
 
 표 1) 센서 노드 설계 고려요소
+
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/cc573442-8fe3-47e4-89cd-ebe473fc3391)
