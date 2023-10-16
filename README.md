@@ -16,7 +16,8 @@
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/84a29c76-97b8-4db9-9caf-bf0c5f1fc8c1)
 
 ##### 센서 모니터링 화면
-![image](https://github.com/dontoong/smart_farm/assets/106039761/09394f89-d5a6-4b9d-80e8-977a0ab017f7)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/a3dd4ed5-29d9-4b0d-a7f1-92799eed83ce)
+
 
 #### 인터페이스 설계 및 구조
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/8abe8687-9861-4373-8784-40da4acda4b7)
