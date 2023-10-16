@@ -23,17 +23,17 @@
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/a00e26f9-ecae-4b5c-bacb-087811ba654a)
 
 
-## 다른 팀원들의 개발
+# 다른 팀원들의 개발
 
-### 게이트웨이 개발(프로젝트의 서버 구조)
+## 게이트웨이 개발(프로젝트의 서버 구조)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/7e69a84f-95a1-475e-992d-bb982dcdf20d)
 
-### 미들웨어 개발
+## 미들웨어 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/9cf48542-5f36-4836-8a2e-80b8b3f4b2a8)
 
-### 애플리케이션 개발
+## 애플리케이션 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/64f284f1-193d-4b49-b7cc-02ef9154c249)
 
-### 웹 페이지 개발
+## 웹 페이지 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/5b15319a-673d-4ef7-b65d-b9be06d92136)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/8d5a3122-60c8-4e19-a69d-22c218bbd84e)
