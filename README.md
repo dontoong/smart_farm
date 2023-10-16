@@ -16,7 +16,7 @@
 ## 스마트팜 [제어] 화면
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/1a6b6baf-8984-403f-821b-d11da0787d34)
 
-### 스마트팜 [센서] 화면
+## 스마트팜 [센서] 화면
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/84a29c76-97b8-4db9-9caf-bf0c5f1fc8c1)
 
 ### 센서 모니터링 화면
