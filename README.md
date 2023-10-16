@@ -1,11 +1,16 @@
 # 환영합니다
-전남인재평생교육원에서 주최한 2022 대학생 무한도전 프로젝트에서 최우수상 수여받았습니다.<br/><br/>
+전남인재평생교육원에서 주최한 2022 대학생 무한도전 프로젝트에서 최우수상을 수여받았습니다.<br/><br/>
 스마트팜 모니터링 시스템 프로젝트 중 임배디드 프로그램 개발을 담당하였습니다.<br/><br/>
 팀명 : 브로그래머's<br/><br/>
 
 ## 나의 담당 개발
 
 ### 임베디드 프로그램 개발
+#### 개발 환경
+![image](https://github.com/dontoong/smart_farm/assets/106039761/10485a04-633e-4400-ba94-afd6cae231fa)
+
+#### 인터페이스 설계 및 구조
+![image](https://github.com/dontoong/smart_farm/assets/106039761/8abe8687-9861-4373-8784-40da4acda4b7)
 #### UI 메인 화면(스마트팜 [일반] 화면)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/55bd0da6-cd59-475c-ae5b-e07f483c5689)
 
@@ -18,10 +23,6 @@
 ##### 센서 모니터링 화면
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/a00e26f9-ecae-4b5c-bacb-087811ba654a)
 
-
-
-#### 인터페이스 설계 및 구조
-![image](https://github.com/dontoong/smart_farm/assets/106039761/8abe8687-9861-4373-8784-40da4acda4b7)
 
 ## 다른 팀원들의 개발
 
