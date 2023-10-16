@@ -10,7 +10,8 @@
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/10485a04-633e-4400-ba94-afd6cae231fa)
 
 #### 인터페이스 설계 및 구조
-![image](https://github.com/dontoong/smart_farm/assets/106039761/8abe8687-9861-4373-8784-40da4acda4b7)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/96ce987c-13f3-470c-bf47-b36a06286a1f)
+
 #### UI 메인 화면(스마트팜 [일반] 화면)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/55bd0da6-cd59-475c-ae5b-e07f483c5689)
 
