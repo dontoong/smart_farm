@@ -189,3 +189,6 @@
 ## 웹 페이지 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/5b15319a-673d-4ef7-b65d-b9be06d92136)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/8d5a3122-60c8-4e19-a69d-22c218bbd84e)
+
+# 프로젝트 실증
+![image](https://github.com/dontoong/smart_farm/assets/106039761/130ff9ac-5080-4c3f-a653-a5ec91b35a38)
