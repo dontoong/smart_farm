@@ -51,14 +51,14 @@
 <br/><br/>
 
 3. IoT 표준 oneM2M 기반 Gateway Platform 구축<br/>
-       - 시스템 설정 관리, 장애 관리, 로그 관리, Open API 사용 이력 관리기능 제작<br/>
-       - HTTP, CoAP, MQTT 프로토콜을 지원하며 서비스 계층 Core Protocol과의 Binding 기능<br/>
-       - 디바이스/어플리케이션/사용자 등록 요청 시 공통 플랫폼에서 인증키를 생성/발급/관리 기능<br/>
-       - HTTP, CoAP, MQTT 간 프로토콜 변환(Conversion) 기능 구축<br/>
-       - RFC7252의 CoAP-HTTP Proxy를 만족하는 CoAP과 HTTP간의 프로토콜 변환기<br/>
-       - 경량 프로토콜(CoAP, MQTT 등)과 비경량 프로토콜(HTTP, SOAP 등) 간의 통신을 위한 Proxy 구조 설계 구성요소 식별<br/>
-       - CoAP/MQTT 간 프로토콜 변환 기능<br/>
-       - MQTT-HTTP 간 프로토콜 변환을 위한 요구사항 도출/구조 설계 및 프로토콜 변환 기능<br/>
+- 시스템 설정 관리, 장애 관리, 로그 관리, Open API 사용 이력 관리기능 제작<br/>
+- HTTP, CoAP, MQTT 프로토콜을 지원하며 서비스 계층 Core Protocol과의 Binding 기능<br/>
+- 디바이스/어플리케이션/사용자 등록 요청 시 공통 플랫폼에서 인증키를 생성/발급/관리 기능<br/>
+- HTTP, CoAP, MQTT 간 프로토콜 변환(Conversion) 기능 구축<br/>
+- RFC7252의 CoAP-HTTP Proxy를 만족하는 CoAP과 HTTP간의 프로토콜 변환기<br/>
+- 경량 프로토콜(CoAP, MQTT 등)과 비경량 프로토콜(HTTP, SOAP 등) 간의 통신을 위한 Proxy 구조 설계 구성요소 식별<br/>
+- CoAP/MQTT 간 프로토콜 변환 기능<br/>
+- MQTT-HTTP 간 프로토콜 변환을 위한 요구사항 도출/구조 설계 및 프로토콜 변환 기능<br/>
 
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/4973bace-5826-4ed7-92a0-dd892187eba6)
 
@@ -67,10 +67,10 @@
 <br/><br/>
 
 4. IoT 표준 oneM2M 기반 Server Platform 구축<br/>
-       - IoT 국제 표준인 oneM2M을 분석하여 디바이스로부터 전송되는 데이터를  수집할 수 있도록 제작<br/>
-       - 관리되는 모든 리소스는 RESTful API로 접근할 수 있도록 제작<br/>
-       - URI 형태를 준수<br/>
-       - Resource 맵핑 URI식별자 구성<br/>
+- IoT 국제 표준인 oneM2M을 분석하여 디바이스로부터 전송되는 데이터를  수집할 수 있도록 제작<br/>
+- 관리되는 모든 리소스는 RESTful API로 접근할 수 있도록 제작<br/>
+- URI 형태를 준수<br/>
+- Resource 맵핑 URI식별자 구성<br/>
 
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/895562d3-835e-492d-a112-585a543f47e8)
 
@@ -81,8 +81,8 @@
 ## 원격 모니터링 및 제어 WEB/APP 개발
 1. 환경정보를 모니터링하고 적정 수치범위 초과시 원격제어 할 수 있는 시스템 개발<br/>
 2. 제어 대상 장비를 통합제어기를 통해 웹에서 시스템으로 제어하도록 구성<br/>
-       - 제어장비 적정수치 설정 및 변경관리<br/>
-       - 제어장비 운영정보 및 센서데이터 통합 조회<br/>
+- 제어장비 적정수치 설정 및 변경관리<br/>
+- 제어장비 운영정보 및 센서데이터 통합 조회<br/>
 
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/bfda4fe4-a5e4-4247-a5a1-30308370a8de)
 
@@ -90,7 +90,7 @@
 
 <br/><br/>
 
-       - 천창, 스크린 : open/close 제어<br/>
+- 천창, 스크린 : open/close 제어<br/>
 
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/140d18aa-185b-4ae2-862d-158cadaae19b)
 
@@ -98,7 +98,7 @@
 
 <br/><br/>
 
-       - 팬 : 공기순환 보조 제어<br/>
+- 팬 : 공기순환 보조 제어<br/>
 
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/51ab56cd-ceac-4d90-af3d-5fd2675f8615)
 
@@ -106,7 +106,7 @@
 
 <br/><br/>
 
-       - 스프링쿨러 : 습도조절 스프링쿨러 on/off<br/>
+- 스프링쿨러 : 습도조절 스프링쿨러 on/off<br/>
 
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/1a3736f3-4515-46bd-ae13-95cc6483f8f2)
 
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-       - 상호연동을 위해 기존에 사용하던 ID와 RS485 Modbus address간 매핑<br/>
+- 상호연동을 위해 기존에 사용하던 ID와 RS485 Modbus address간 매핑<br/>
 
 <br/><br/>
 
@@ -133,10 +133,10 @@
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/108b2c41-0331-4869-8c8e-393b20b48362)
 
 4. 유리온실 통합관제시스템 구축<br/>
-       - 유리온실 설비 제어기능<br/>
-       - 유리온실 통계정보 조회<br/>
-       - 유리온실 데이터 관리기능 제작<br/>
-       - 각 센서 값에 대한 일별 평균치, 최고치, 최저치, 합을 계산<br/>
+- 유리온실 설비 제어기능<br/>
+- 유리온실 통계정보 조회<br/>
+- 유리온실 데이터 관리기능 제작<br/>
+- 각 센서 값에 대한 일별 평균치, 최고치, 최저치, 합을 계산<br/>
 
 <br/><br/>
 
