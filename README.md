@@ -21,7 +21,7 @@
 - 제어장비 적정수치 설정 및 변경관리<br/>
 - 제어장비 운영정보 및 센서데이터 통합 조회<br/>
 
-![image](https://github.com/dontoong/smart_farm/assets/106039761/9cf48542-5f36-4836-8a2e-80b8b3f4b2a8)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/963983bc-da68-44d0-bc26-75edba11fd3b)
 
 그림 [시스템 구성도]
 
