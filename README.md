@@ -21,7 +21,7 @@
 - 제어장비 적정수치 설정 및 변경관리<br/>
 - 제어장비 운영정보 및 센서데이터 통합 조회<br/>
 
-![image](https://github.com/dontoong/smart_farm/assets/106039761/bfda4fe4-a5e4-4247-a5a1-30308370a8de)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/9cf48542-5f36-4836-8a2e-80b8b3f4b2a8)
 
 그림 [시스템 구성도]
 
@@ -85,10 +85,10 @@
 
 # 팀원들의 개발
 
-## 게이트웨이 개발(프로젝트의 서버 구조)
+## 게이트웨이 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/7e69a84f-95a1-475e-992d-bb982dcdf20d)
 
-## 미들웨어 개발
+## 미들웨어 개발(프로젝트의 서버 구조)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/9cf48542-5f36-4836-8a2e-80b8b3f4b2a8)
 
 ## 애플리케이션 개발
