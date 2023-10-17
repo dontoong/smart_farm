@@ -1,6 +1,6 @@
 from machbaseAPI import machbase
-ip='175.126.123.217'
-machbase_port=5656
+ip='IP 주소'
+machbase_port='포트번호'
 # 온도 센서
 def read_ground_temp():
     db = machbase()
