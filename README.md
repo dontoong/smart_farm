@@ -2,6 +2,7 @@
 전남인재평생교육진흥원에서 주최한 2022 대학생 무한도전 프로젝트에서 최우수상을 수여받았습니다.<br/><br/>
 스마트팜 모니터링 시스템 프로젝트 중 임배디드 프로그램 개발을 담당하였습니다.<br/><br/>
 팀명 : 브로그래머's<br/><br/>
+개발 기간 : 2022.04~2022.12<br/>
 # 사업 목표
 ## 최종 목표
 - 기업과 연계하여 스마트팜 모니터링 시스템을 개발함으로서 실질적인 기업의 개발 프로세스를 경험하고 이를 이용하여 직접 스마트팜의 제어 및 모니터링 제품을 개발<br/>
@@ -20,7 +21,7 @@
 - 제어장비 적정수치 설정 및 변경관리<br/>
 - 제어장비 운영정보 및 센서데이터 통합 조회<br/>
 
-![image](https://github.com/dontoong/smart_farm/assets/106039761/bfda4fe4-a5e4-4247-a5a1-30308370a8de)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/963983bc-da68-44d0-bc26-75edba11fd3b)
 
 그림 [시스템 구성도]
 
@@ -84,10 +85,10 @@
 
 # 팀원들의 개발
 
-## 게이트웨이 개발(프로젝트의 서버 구조)
+## 게이트웨이 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/7e69a84f-95a1-475e-992d-bb982dcdf20d)
 
-## 미들웨어 개발
+## 미들웨어 개발(프로젝트의 서버 구조)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/9cf48542-5f36-4836-8a2e-80b8b3f4b2a8)
 
 ## 애플리케이션 개발
@@ -95,7 +96,7 @@
 
 ## 웹 페이지 개발
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/5b15319a-673d-4ef7-b65d-b9be06d92136)
-![image](https://github.com/dontoong/smart_farm/assets/106039761/8d5a3122-60c8-4e19-a69d-22c218bbd84e)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/e409543f-9486-4e65-8a9d-a8325cfebb2a)
 
 # 프로젝트 실증
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/130ff9ac-5080-4c3f-a653-a5ec91b35a38)
