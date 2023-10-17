@@ -669,10 +669,6 @@ class Ui_Dialog(object):
         self.retranslateUi(Dialog)
         self.tabWidget.setCurrentIndex(2)
         self.tabWidget_2.setCurrentIndex(2)
-        self.pushButton_5.clicked.connect(Dialog.btn_main_to_temp)
-        self.pushButton_6.clicked.connect(Dialog.btn_main_to_humi)
-        self.pushButton_13.clicked.connect(Dialog.btn_main_to_ph)
-        self.pushButton_14.clicked.connect(Dialog.btn_main_to_co2)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
 
     def retranslateUi(self, Dialog):
