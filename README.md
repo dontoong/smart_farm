@@ -66,6 +66,9 @@
 ## 인터페이스 설계 및 구조
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/96ce987c-13f3-470c-bf47-b36a06286a1f)
 
+## 데이터베이스 구조
+![image](https://github.com/dontoong/smart_farm/assets/106039761/7697dcea-f3b7-4ca9-a9a7-ba4ec48be86b)
+
 ## UI 메인 화면(스마트팜 [일반] 화면)
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/55bd0da6-cd59-475c-ae5b-e07f483c5689)
 
