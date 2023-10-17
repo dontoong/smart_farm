@@ -4,7 +4,7 @@ import sys
 import time
 import numpy as np
 
-# 센서데이터 모듈ㅇ
+# 센서데이터 모듈
 from machbaseAPI import machbase
 from PyQt5.QtCore import *
 import re
