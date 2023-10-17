@@ -76,7 +76,7 @@
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/1a6b6baf-8984-403f-821b-d11da0787d34)
 
 ## 스마트팜 [센서] 화면
-![image](https://github.com/dontoong/smart_farm/assets/106039761/84a29c76-97b8-4db9-9caf-bf0c5f1fc8c1)
+![image](https://github.com/dontoong/smart_farm/assets/106039761/b22fe4c4-ab7c-40e0-bd27-f628ee21dce7)
 
 ### 센서 모니터링 화면
 ![image](https://github.com/dontoong/smart_farm/assets/106039761/a00e26f9-ecae-4b5c-bacb-087811ba654a)
